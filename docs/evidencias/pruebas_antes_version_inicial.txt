@@ -1,0 +1,18 @@
+test_01_registrar_ok (test_caracterizacion.CaracterizacionInicial.test_01_registrar_ok) ... ok
+test_02_baja_fuerza_prioridad_alta (test_caracterizacion.CaracterizacionInicial.test_02_baja_fuerza_prioridad_alta) ... ok
+test_03_validaciones_registro (test_caracterizacion.CaracterizacionInicial.test_03_validaciones_registro) ... ok
+test_04_estudiante_existente_conserva_nombre (test_caracterizacion.CaracterizacionInicial.test_04_estudiante_existente_conserva_nombre) ... ok
+test_05_flujo_completo_estados (test_caracterizacion.CaracterizacionInicial.test_05_flujo_completo_estados) ... ok
+test_06_errores_cambiar_estado (test_caracterizacion.CaracterizacionInicial.test_06_errores_cambiar_estado) ... ok
+test_07_errores_asignar (test_caracterizacion.CaracterizacionInicial.test_07_errores_asignar) ... ok
+test_08_filtros (test_caracterizacion.CaracterizacionInicial.test_08_filtros) ... ok
+test_09_reporte_vacio (test_caracterizacion.CaracterizacionInicial.test_09_reporte_vacio) ... ok
+test_10_reporte_con_datos (test_caracterizacion.CaracterizacionInicial.test_10_reporte_con_datos) ... ok
+test_11_opcion_invalida (test_caracterizacion.CaracterizacionInicial.test_11_opcion_invalida) ... ok
+test_12_persistencia_entre_sesiones (test_caracterizacion.CaracterizacionInicial.test_12_persistencia_entre_sesiones) ... ok
+test_13_busqueda_sin_resultados_y_vacio (test_caracterizacion.CaracterizacionInicial.test_13_busqueda_sin_resultados_y_vacio) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.404s
+
+OK

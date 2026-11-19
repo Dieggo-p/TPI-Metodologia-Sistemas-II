@@ -1,0 +1,52 @@
+test_01_registrar_ok (test_caracterizacion.CaracterizacionInicial.test_01_registrar_ok) ... ok
+test_02_baja_fuerza_prioridad_alta (test_caracterizacion.CaracterizacionInicial.test_02_baja_fuerza_prioridad_alta) ... ok
+test_03_validaciones_registro (test_caracterizacion.CaracterizacionInicial.test_03_validaciones_registro) ... ok
+test_04_estudiante_existente_conserva_nombre (test_caracterizacion.CaracterizacionInicial.test_04_estudiante_existente_conserva_nombre) ... ok
+test_05_flujo_completo_estados (test_caracterizacion.CaracterizacionInicial.test_05_flujo_completo_estados) ... ok
+test_06_errores_cambiar_estado (test_caracterizacion.CaracterizacionInicial.test_06_errores_cambiar_estado) ... ok
+test_07_errores_asignar (test_caracterizacion.CaracterizacionInicial.test_07_errores_asignar) ... ok
+test_08_filtros (test_caracterizacion.CaracterizacionInicial.test_08_filtros) ... ok
+test_09_reporte_vacio (test_caracterizacion.CaracterizacionInicial.test_09_reporte_vacio) ... ok
+test_10_reporte_con_datos (test_caracterizacion.CaracterizacionInicial.test_10_reporte_con_datos) ... ok
+test_11_opcion_invalida (test_caracterizacion.CaracterizacionInicial.test_11_opcion_invalida) ... ok
+test_12_persistencia_entre_sesiones (test_caracterizacion.CaracterizacionInicial.test_12_persistencia_entre_sesiones) ... ok
+test_13_busqueda_sin_resultados_y_vacio (test_caracterizacion.CaracterizacionInicial.test_13_busqueda_sin_resultados_y_vacio) ... ok
+test_01_registrar_ok (test_caracterizacion.CaracterizacionRefactorizada.test_01_registrar_ok) ... ok
+test_02_baja_fuerza_prioridad_alta (test_caracterizacion.CaracterizacionRefactorizada.test_02_baja_fuerza_prioridad_alta) ... ok
+test_03_validaciones_registro (test_caracterizacion.CaracterizacionRefactorizada.test_03_validaciones_registro) ... ok
+test_04_estudiante_existente_conserva_nombre (test_caracterizacion.CaracterizacionRefactorizada.test_04_estudiante_existente_conserva_nombre) ... ok
+test_05_flujo_completo_estados (test_caracterizacion.CaracterizacionRefactorizada.test_05_flujo_completo_estados) ... ok
+test_06_errores_cambiar_estado (test_caracterizacion.CaracterizacionRefactorizada.test_06_errores_cambiar_estado) ... ok
+test_07_errores_asignar (test_caracterizacion.CaracterizacionRefactorizada.test_07_errores_asignar) ... ok
+test_08_filtros (test_caracterizacion.CaracterizacionRefactorizada.test_08_filtros) ... ok
+test_09_reporte_vacio (test_caracterizacion.CaracterizacionRefactorizada.test_09_reporte_vacio) ... ok
+test_10_reporte_con_datos (test_caracterizacion.CaracterizacionRefactorizada.test_10_reporte_con_datos) ... ok
+test_11_opcion_invalida (test_caracterizacion.CaracterizacionRefactorizada.test_11_opcion_invalida) ... ok
+test_12_persistencia_entre_sesiones (test_caracterizacion.CaracterizacionRefactorizada.test_12_persistencia_entre_sesiones) ... ok
+test_13_busqueda_sin_resultados_y_vacio (test_caracterizacion.CaracterizacionRefactorizada.test_13_busqueda_sin_resultados_y_vacio) ... ok
+test_lo_guardado_se_puede_recuperar (test_unitarios_refactorizado.PruebasContratoEnMemoria.test_lo_guardado_se_puede_recuperar) ... ok
+test_repositorio_nuevo_devuelve_datos_vacios (test_unitarios_refactorizado.PruebasContratoEnMemoria.test_repositorio_nuevo_devuelve_datos_vacios) ... ok
+test_archivo_danado_se_informa_y_no_se_pisa (test_unitarios_refactorizado.PruebasContratoJson.test_archivo_danado_se_informa_y_no_se_pisa) ... ok
+test_formato_del_archivo_compatible_con_version_inicial (test_unitarios_refactorizado.PruebasContratoJson.test_formato_del_archivo_compatible_con_version_inicial) ... ok
+test_lo_guardado_se_puede_recuperar (test_unitarios_refactorizado.PruebasContratoJson.test_lo_guardado_se_puede_recuperar) ... ok
+test_repositorio_nuevo_devuelve_datos_vacios (test_unitarios_refactorizado.PruebasContratoJson.test_repositorio_nuevo_devuelve_datos_vacios) ... ok
+test_estados_finales (test_unitarios_refactorizado.PruebasDominio.test_estados_finales) ... ok
+test_no_pasa_a_en_proceso_sin_responsable (test_unitarios_refactorizado.PruebasDominio.test_no_pasa_a_en_proceso_sin_responsable) ... ok
+test_no_se_asigna_responsable_a_solicitud_cerrada (test_unitarios_refactorizado.PruebasDominio.test_no_se_asigna_responsable_a_solicitud_cerrada) ... ok
+test_transicion_invalida_lanza_error (test_unitarios_refactorizado.PruebasDominio.test_transicion_invalida_lanza_error) ... ok
+test_transiciones_validas_e_invalidas (test_unitarios_refactorizado.PruebasDominio.test_transiciones_validas_e_invalidas) ... ok
+test_criterio_invalido (test_unitarios_refactorizado.PruebasFiltrosYReportes.test_criterio_invalido) ... ok
+test_filtro_por_tipo_y_legajo (test_unitarios_refactorizado.PruebasFiltrosYReportes.test_filtro_por_tipo_y_legajo) ... ok
+test_reporte_cuenta_incluyendo_ceros (test_unitarios_refactorizado.PruebasFiltrosYReportes.test_reporte_cuenta_incluyendo_ceros) ... ok
+test_baja_fuerza_prioridad_alta (test_unitarios_refactorizado.PruebasServicio.test_baja_fuerza_prioridad_alta) ... ok
+test_flujo_asignar_y_cambiar_estado (test_unitarios_refactorizado.PruebasServicio.test_flujo_asignar_y_cambiar_estado) ... ok
+test_registrar_usa_reloj_inyectado_y_persiste (test_unitarios_refactorizado.PruebasServicio.test_registrar_usa_reloj_inyectado_y_persiste) ... ok
+test_registro_invalido_no_crea_estudiante_ni_consume_id (test_unitarios_refactorizado.PruebasServicio.test_registro_invalido_no_crea_estudiante_ni_consume_id) ... ok
+test_responsable_inexistente (test_unitarios_refactorizado.PruebasServicio.test_responsable_inexistente) ... ok
+test_solicitud_inexistente (test_unitarios_refactorizado.PruebasServicio.test_solicitud_inexistente) ... ok
+test_validaciones_de_registro (test_unitarios_refactorizado.PruebasServicio.test_validaciones_de_registro) ... ok
+
+----------------------------------------------------------------------
+Ran 47 tests in 1.146s
+
+OK

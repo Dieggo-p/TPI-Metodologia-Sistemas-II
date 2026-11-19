@@ -1,0 +1,120 @@
+refactorizado/main.py
+    LOC: 21
+    LLOC: 16
+    SLOC: 15
+    Comments: 0
+    Single comments: 1
+    Multi: 0
+    Blank: 5
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+refactorizado/solicitudes/cli.py
+    LOC: 101
+    LLOC: 70
+    SLOC: 87
+    Comments: 0
+    Single comments: 1
+    Multi: 0
+    Blank: 13
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+refactorizado/solicitudes/errores.py
+    LOC: 25
+    LLOC: 13
+    SLOC: 6
+    Comments: 0
+    Single comments: 7
+    Multi: 0
+    Blank: 12
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+refactorizado/solicitudes/reportes.py
+    LOC: 50
+    LLOC: 35
+    SLOC: 37
+    Comments: 0
+    Single comments: 1
+    Multi: 0
+    Blank: 12
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+refactorizado/solicitudes/__init__.py
+    LOC: 1
+    LLOC: 1
+    SLOC: 0
+    Comments: 0
+    Single comments: 1
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+refactorizado/solicitudes/repositorio.py
+    LOC: 89
+    LLOC: 52
+    SLOC: 65
+    Comments: 0
+    Single comments: 3
+    Multi: 0
+    Blank: 21
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+refactorizado/solicitudes/filtros.py
+    LOC: 33
+    LLOC: 22
+    SLOC: 23
+    Comments: 0
+    Single comments: 1
+    Multi: 0
+    Blank: 9
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+refactorizado/solicitudes/dominio.py
+    LOC: 107
+    LLOC: 88
+    SLOC: 77
+    Comments: 0
+    Single comments: 3
+    Multi: 0
+    Blank: 27
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+refactorizado/solicitudes/servicio.py
+    LOC: 111
+    LLOC: 84
+    SLOC: 90
+    Comments: 3
+    Single comments: 4
+    Multi: 0
+    Blank: 17
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 3%
+        (C + M % L): 3%
+** Total **
+    LOC: 538
+    LLOC: 381
+    SLOC: 400
+    Comments: 3
+    Single comments: 22
+    Multi: 0
+    Blank: 116
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%
