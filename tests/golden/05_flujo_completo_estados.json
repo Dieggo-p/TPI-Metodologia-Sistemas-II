@@ -1,0 +1,23 @@
+{
+  "salida": "##### SESION 1 #####\n\n=== Gestion de Solicitudes Academicas ===\n1. Registrar solicitud\n2. Cambiar estado\n3. Asignar responsable\n4. Buscar / filtrar\n5. Reporte\n0. Salir\nOpcion: Legajo: Nombre del estudiante: Tipo (CONSTANCIA/EQUIVALENCIA/BAJA/OTRO): Prioridad (ALTA/MEDIA/BAJA): Descripcion: Solicitud #1 registrada (estado PENDIENTE, prioridad MEDIA)\n\n=== Gestion de Solicitudes Academicas ===\n1. Registrar solicitud\n2. Cambiar estado\n3. Asignar responsable\n4. Buscar / filtrar\n5. Reporte\n0. Salir\nOpcion: ID de solicitud: Nuevo estado (EN_PROCESO/RESUELTA/RECHAZADA): Error: debe asignar un responsable antes de pasar a EN_PROCESO\n\n=== Gestion de Solicitudes Academicas ===\n1. Registrar solicitud\n2. Cambiar estado\n3. Asignar responsable\n4. Buscar / filtrar\n5. Reporte\n0. Salir\nOpcion: ID de solicitud: Responsable: Solicitud #1 asignada a Bedelia\n\n=== Gestion de Solicitudes Academicas ===\n1. Registrar solicitud\n2. Cambiar estado\n3. Asignar responsable\n4. Buscar / filtrar\n5. Reporte\n0. Salir\nOpcion: ID de solicitud: Nuevo estado (EN_PROCESO/RESUELTA/RECHAZADA): Solicitud #1 ahora esta EN_PROCESO\n\n=== Gestion de Solicitudes Academicas ===\n1. Registrar solicitud\n2. Cambiar estado\n3. Asignar responsable\n4. Buscar / filtrar\n5. Reporte\n0. Salir\nOpcion: ID de solicitud: Nuevo estado (EN_PROCESO/RESUELTA/RECHAZADA): Solicitud #1 ahora esta RESUELTA\n\n=== Gestion de Solicitudes Academicas ===\n1. Registrar solicitud\n2. Cambiar estado\n3. Asignar responsable\n4. Buscar / filtrar\n5. Reporte\n0. Salir\nOpcion: ID de solicitud: Nuevo estado (EN_PROCESO/RESUELTA/RECHAZADA): Error: transicion no permitida de RESUELTA a RECHAZADA\n\n=== Gestion de Solicitudes Academicas ===\n1. Registrar solicitud\n2. Cambiar estado\n3. Asignar responsable\n4. Buscar / filtrar\n5. Reporte\n0. Salir\nOpcion: ID de solicitud: Error: la solicitud ya esta cerrada\n\n=== Gestion de Solicitudes Academicas ===\n1. Registrar solicitud\n2. Cambiar estado\n3. Asignar responsable\n4. Buscar / filtrar\n5. Reporte\n0. Salir\nOpcion: Opcion invalida\n\n=== Gestion de Solicitudes Academicas ===\n1. Registrar solicitud\n2. Cambiar estado\n3. Asignar responsable\n4. Buscar / filtrar\n5. Reporte\n0. Salir\nOpcion: Filtrar por (estado/tipo/prioridad/legajo/ninguno): Valor: #1 | 1001 Ana Perez | CONSTANCIA | MEDIA | RESUELTA | Bedelia\n\n=== Gestion de Solicitudes Academicas ===\n1. Registrar solicitud\n2. Cambiar estado\n3. Asignar responsable\n4. Buscar / filtrar\n5. Reporte\n0. Salir\nOpcion: Hasta luego\n",
+  "datos": {
+    "contador": 1,
+    "estudiantes": [
+      {
+        "legajo": "1001",
+        "nombre": "Ana Perez"
+      }
+    ],
+    "solicitudes": [
+      {
+        "id": 1,
+        "legajo": "1001",
+        "tipo": "CONSTANCIA",
+        "prioridad": "MEDIA",
+        "estado": "RESUELTA",
+        "descripcion": "Constancia de alumno regular",
+        "responsable": "Bedelia"
+      }
+    ]
+  }
+}
