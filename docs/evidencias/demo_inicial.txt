@@ -1,0 +1,98 @@
+
+=== Gestion de Solicitudes Academicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Reporte
+0. Salir
+Opcion: Legajo: Nombre del estudiante: Tipo (CONSTANCIA/EQUIVALENCIA/BAJA/OTRO): Prioridad (ALTA/MEDIA/BAJA): Descripcion: Solicitud #1 registrada (estado PENDIENTE, prioridad MEDIA)
+
+=== Gestion de Solicitudes Academicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Reporte
+0. Salir
+Opcion: Legajo: Nombre del estudiante: Tipo (CONSTANCIA/EQUIVALENCIA/BAJA/OTRO): Prioridad (ALTA/MEDIA/BAJA): Descripcion: Solicitud #2 registrada (estado PENDIENTE, prioridad ALTA)
+
+=== Gestion de Solicitudes Academicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Reporte
+0. Salir
+Opcion: ID de solicitud: Nuevo estado (EN_PROCESO/RESUELTA/RECHAZADA): Error: debe asignar un responsable antes de pasar a EN_PROCESO
+
+=== Gestion de Solicitudes Academicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Reporte
+0. Salir
+Opcion: ID de solicitud: Responsable: Solicitud #1 asignada a Bedelia
+
+=== Gestion de Solicitudes Academicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Reporte
+0. Salir
+Opcion: ID de solicitud: Nuevo estado (EN_PROCESO/RESUELTA/RECHAZADA): Solicitud #1 ahora esta EN_PROCESO
+
+=== Gestion de Solicitudes Academicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Reporte
+0. Salir
+Opcion: ID de solicitud: Nuevo estado (EN_PROCESO/RESUELTA/RECHAZADA): Solicitud #1 ahora esta RESUELTA
+
+=== Gestion de Solicitudes Academicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Reporte
+0. Salir
+Opcion: Filtrar por (estado/tipo/prioridad/legajo/ninguno): #1 | 1001 Ana Perez | CONSTANCIA | MEDIA | RESUELTA | Bedelia
+#2 | 1002 Luis Gomez | BAJA | ALTA | PENDIENTE | -
+
+=== Gestion de Solicitudes Academicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Reporte
+0. Salir
+Opcion: --- REPORTE ---
+Total de solicitudes: 2
+Por estado:
+  PENDIENTE: 1
+  EN_PROCESO: 0
+  RESUELTA: 1
+  RECHAZADA: 0
+Por tipo:
+  CONSTANCIA: 1
+  EQUIVALENCIA: 0
+  BAJA: 1
+  OTRO: 0
+Por prioridad:
+  ALTA: 1
+  MEDIA: 1
+  BAJA: 0
+Sin responsable asignado: 1
+
+=== Gestion de Solicitudes Academicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Reporte
+0. Salir
+Opcion: Hasta luego

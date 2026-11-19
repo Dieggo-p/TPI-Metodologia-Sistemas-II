@@ -1,0 +1,24 @@
+inicial/app.py
+    LOC: 257
+    LLOC: 232
+    SLOC: 234
+    Comments: 2
+    Single comments: 2
+    Multi: 0
+    Blank: 21
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%
+** Total **
+    LOC: 257
+    LLOC: 232
+    SLOC: 234
+    Comments: 2
+    Single comments: 2
+    Multi: 0
+    Blank: 21
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%

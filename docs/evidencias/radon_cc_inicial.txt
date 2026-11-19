@@ -1,0 +1,13 @@
+inicial/app.py
+    F 154:0 opcion_buscar - C (19)
+    F 90:0 opcion_cambiar_estado - C (14)
+    F 196:0 opcion_reporte - C (12)
+    F 56:0 opcion_registrar - C (11)
+    F 126:0 opcion_asignar - B (10)
+    F 227:0 main - B (8)
+    F 37:0 crear_solicitud - A (5)
+    F 15:0 cargar - A (2)
+    F 30:0 guardar - A (1)
+
+9 blocks (classes, functions, methods) analyzed.
+Average complexity: B (9.11111111111111)
